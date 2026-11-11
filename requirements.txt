@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+Pillow>=9.0
+torch>=2.0
+torchvision>=0.15
+tensorboard>=2.10
+tqdm>=4.60
+MedPy>=0.5
